@@ -9,9 +9,14 @@
         3.3 Quali sono le classi Thread che lavorano in concorrenza? Quanti sono i thread in memoria?
         
         3.4 Quali sono i metodi della classe Thread che vengono usati?
+        le classi Tread run(), start(), main().
         
         3.5 Quale è la classe Monitor? Perché e a cosa serve?
-        
+        La classe Monitor e la classe Posto. Perchè ha presenti i metodi synchronized.
+            
         3.6 Quali eccezioni sono usate nell'applicazione? Di che tipo sono?
         
         3.7 Quali possibilità ha il programmatore nel gestire queste eccezioni?
+        
+4) Modificare il codice in modo che il numero di partecipanti sia deciso dall'utente dopo aver avviato l'applicazione.
+5) Salvare in un file dal nome "Risultato.txt" la sequenza dei posti occupati con il codice del relativo partecipante. (FACOLTATIVO)
