@@ -16,7 +16,8 @@ public class TestGiocoSedie {
     private static Logger logger = Logger.getLogger("GiocoSedie.TestGiocoSedie");
     
     /**
-     * @param args the command line arguments
+     * @param args è di tipo String ed è un arry per passare i parametri da linea di comando
+     *
      */
     public static void main(String[] args) {
         Posto sedie[] = new Posto[NUMSEDIE];
